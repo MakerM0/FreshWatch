@@ -88,5 +88,5 @@ For further development, you can refer to the CircuitPython official website.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[![Cc-by-nc-sa_icon svg](https://github.com/user-attachments/assets/acf46747-aad0-43b8-9287-4c9babba2a1e)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![320px-Cc-by-nc-sa_icon](https://github.com/user-attachments/assets/735aec1d-c601-4b99-9d29-5e30462bed77)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
