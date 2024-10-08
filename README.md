@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/add512e9-5024-4782-b100-e7e65d2e877f
+https://github.com/user-attachments/assets/3a3785d2-84e4-4510-96f3-b70b62eddb09
 
 # FreshWatch
 
