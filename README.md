@@ -62,7 +62,7 @@ A flash.uf2 file will be automatically generated each time you compile, making i
 
 The pages directory contains content related to the various app functionalities. You can write these according to the rules in the template folder and sequentially fill in these functions.
 
-![04-10-2024 13 47 22](https://github.com/user-attachments/assets/f4c4665c-c10d-4658-93f7-ba67e4625ef0)
+![04-10-2024 13.47.22](doc/04-10-2024 13.47.22.png)
 
 
 
