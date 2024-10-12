@@ -44,6 +44,8 @@ This is a watch that can monitor air quality, with open-source hardware and soft
 
 PCB thickness: 0.8mm
 
+[Purchase](https://www.elecrow.com/sharepj/freshwatch-for-monitoring-air-quality-391.html)
+
 
 
 # Mechanical
