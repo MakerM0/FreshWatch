@@ -48,7 +48,14 @@ PCB thickness: 0.8mm
 
 # Mechanical
 
-![preview](doc/preview.png)
+| Item Name                  | Size       | Quantity |
+| -------------------------- | ---------- | -------- |
+| Cross-Head Flat Head Screw | M1.6 x 6mm | 4        |
+| Pannel                     | <img src="doc/preview.png" alt="preview" style="zoom:33%;" /> | 1        |
+
+
+
+
 
 # Software
 
@@ -88,5 +95,5 @@ For further development, you can refer to the CircuitPython official website.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[![320px-Cc-by-nc-sa_icon](https://github.com/user-attachments/assets/735aec1d-c601-4b99-9d29-5e30462bed77)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[<img src="https://github.com/user-attachments/assets/735aec1d-c601-4b99-9d29-5e30462bed77" alt="320px-Cc-by-nc-sa_icon" style="zoom:50%;" />](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
