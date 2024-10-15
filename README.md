@@ -6,15 +6,11 @@ This is a watch that can monitor air quality, with open-source hardware and soft
 
 ![20241003_224117](doc/20241003_224117.jpg)
 
-![20241004_153557](doc/20241004_153557.jpg)
-
-![20241004_153757](doc/20241004_153757.jpg)
-
-![20241004_153816](doc/20241004_153816.jpg)
-
-![20241004_154010](doc/20241004_154010.jpg)
-
-![20241004_154049](doc/20241004_154049.jpg)
+| ![20241004_153557](doc/20241004_153557.jpg) | ![20241004_153757](doc/20241004_153757.jpg) |
+| ------------------------------------------- | ------------------------------------------- |
+| ![20241004_153816](doc/20241004_153816.jpg) | ![20241004_154010](doc/20241004_154010.jpg) |
+| ![20241004_154049](doc/20241004_154049.jpg) | ![20241008163717](doc/20241008163717.jpg)   |
+|                                             |                                             |
 
 
 
@@ -30,21 +26,25 @@ This is a watch that can monitor air quality, with open-source hardware and soft
 - Battery: 402030
 - watch band: 20mm
 
-![20241008163717](doc/20241008163717.jpg)
+
 
 
 
 # 3D Printing
 
-[3D files](https://makeronline.com/en/model/Fresh%20Watch/48677.html)
+##### AnyCubic Printer
 
+- [https://makeronline.com/en/model/Fresh%20Watch/48677.html](https://makeronline.com/en/model/Fresh%20Watch/48677.html)
 
+##### Bambu Printer
+
+- https://makerworld.com/zh/models/705304#profileId-635231
 
 # Hardware
 
 PCB thickness: 0.8mm
 
-[Purchase](https://www.elecrow.com/sharepj/freshwatch-for-monitoring-air-quality-391.html)
+[PCBA Service](https://www.elecrow.com/sharepj/freshwatch-for-monitoring-air-quality-391.html)
 
 
 
